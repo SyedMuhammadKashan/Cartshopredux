@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cartshopredux/static/css/main.96476c31.css",
+    "main.js": "/Cartshopredux/static/js/main.8ca57aba.js",
+    "static/js/787.d5231960.chunk.js": "/Cartshopredux/static/js/787.d5231960.chunk.js",
+    "index.html": "/Cartshopredux/index.html",
+    "main.96476c31.css.map": "/Cartshopredux/static/css/main.96476c31.css.map",
+    "main.8ca57aba.js.map": "/Cartshopredux/static/js/main.8ca57aba.js.map",
+    "787.d5231960.chunk.js.map": "/Cartshopredux/static/js/787.d5231960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96476c31.css",
+    "static/js/main.8ca57aba.js"
+  ]
+}
